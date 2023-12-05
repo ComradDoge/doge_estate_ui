@@ -1,7 +1,7 @@
 tags={
 	"Graphics"
 }
-name="Doge's Estate Interface v1 (Ironman)"
+name="Doge's Estate Interface (Deprecated) (Ironman)"
 picture="thumbnail.png"
 supported_version="1.36.*"
 path="mod/estate_ui_v1"
